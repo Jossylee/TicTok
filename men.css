@@ -1,0 +1,173 @@
+body{
+    background-color: #f0f0f0;
+    color: #1C1C1C;
+}
+
+a{
+    text-decoration: none;
+    color: #CCB57B;
+}
+
+hr{
+    border-top-style: none;
+    border-bottom-style: dotted;
+    border-width: 6px;
+    width: 50%;
+    margin: auto;
+    color: #1C1C1C;
+}
+
+table{
+    margin-top: 10px;
+    text-align: left;
+    justify-content: center;
+    color: #CCB57B;
+
+}
+
+td{
+    padding-right: 30px;
+    margin-top: -40px;
+    padding-left: 10px;
+}
+
+th{
+    padding-right: 30px;
+    padding-left: 10px;
+}
+
+.first-row{
+    margin-top: -40px;
+}
+
+
+.ticktok-logo{
+    width: 150px;
+    height: 72px;
+}
+
+.nav-item{
+    margin-left: 370px;
+}
+
+
+.container-fluid{
+    margin-top: -15px;
+    margin-bottom: 20px;
+    background-color: #1C1C1C;
+}
+
+
+.navbar{
+    background-color: #1C1C1C;
+}
+
+.firstSpan {
+    color: rgb(119, 162, 241)
+  }
+
+.firstSpan-2 {
+    color: rgb(119, 162, 241)
+  }
+
+.firstSpan-3 {
+    color: rgb(119, 162, 241)
+  }
+      
+  .firstSpan .secondSpan {
+    visibility: hidden;
+    width: 60px;
+    background-color: #F59956;
+    color: #1C1C1C;
+    text-align: center;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    margin-top: 30px;
+    margin-left: -40px;
+  }
+
+  .firstSpan-2 .secondSpan-2 {
+    visibility: hidden;
+    width: 60px;
+    background-color: #F59956;
+    color: #1C1C1C;
+    text-align: center;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    margin-top: 30px;
+    margin-left: -40px;
+  }
+
+  .firstSpan-3 .secondSpan-3 {
+    visibility: hidden;
+    width: 60px;
+    background-color: #F59956;
+    color: #1C1C1C;
+    text-align: center;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    margin-top: 30px;
+    margin-left: -40px;
+  }
+      
+  .firstSpan:hover .secondSpan {
+    visibility: visible;
+  }
+
+  .firstSpan-2:hover .secondSpan-2 {
+    visibility: visible;
+  }
+
+  .firstSpan-3:hover .secondSpan-3 {
+    visibility: visible;
+  }
+
+
+.product {
+    margin-bottom: 20px;
+    width: 18rem;
+    margin-left: 45px;
+    padding-left: 100px;
+}
+.cart {
+    margin-top: 20px;
+    padding: 10px;
+    width: 50%;
+}
+
+.product-group{
+    display: inline-flex;
+}
+
+.add-to-cart{
+    position: relative;
+    bottom: 8px;
+    left: 16px;
+}
+
+.footer{
+    margin-top: 100px;
+    background-color: #1C1C1C;
+}
+
+.footer-logo{
+    width: 200px;
+    height: 100px;
+}
+
+.footer-partners{
+    background-color: #1C1C1C;
+}
+
+.footer-images{
+    display: inline;
+}
+
+.footer-img{
+    width: 250px;
+    height: 130px;
+    padding-left: 20px;
+}
